@@ -1,0 +1,13 @@
+server:
+  port: 8090
+
+spring:
+  mongodb:
+    username: julia_nguyen
+    password: juliaNguyen98!
+    host: localhost
+    port: 27017
+    database: customer
+    authentication-database: admin
+
+
